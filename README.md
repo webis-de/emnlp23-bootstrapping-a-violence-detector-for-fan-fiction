@@ -23,6 +23,8 @@ optional arguments:
   -h, --help         show this help message and exit
 ```
 
+Download the data at [zenodo](https://zenodo.org/records/10036479)
+
 ## Classification Scripts
 
 This projects contains the following scripts:
